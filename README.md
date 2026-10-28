@@ -2,7 +2,7 @@
 
 Agent Scout is a Mac app for researching work done with coding agents. Browse live conversations, collect related threads into named projects, then explore the saved material together.
 
-**Public preview: 0.2.0-provisional.7.** Requires an Apple Silicon Mac running macOS 13 or later.
+**Public preview: 0.2.0-provisional.7.** The Mac app is Developer ID signed and notarised by Apple. Requires an Apple Silicon Mac running macOS 13 or later.
 
 [Download the Mac preview](https://github.com/techczech/agent-scout/releases/tag/v0.2.0-provisional.7) · [About Agent Scout](https://dominiklukes.net/apps/agent-scout)
 
